@@ -1,5 +1,27 @@
-# 💫 About Me:
-“Hi, I’m Shimaa, an aspiring Fullstack Developer passionate about building interactive and efficient web applications.”<br>“I enjoy working on both frontend and backend development. Currently learning and experimenting with React, Node.js, and databases to become a skilled Fullstack Developer.”
+# 💫 About Me
+
+👋 Hi, I’m **Shimaa**  
+
+🌟 **Aspiring Fullstack Developer** passionate about building **interactive & efficient web applications**  
+
+💻 **Frontend & Backend Enthusiast** – Currently learning and experimenting with:  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/>
+</p>
+
+🎯 **Goal:** Become a skilled Fullstack Developer & build real-world projects  
+
+🛠 **Currently Learning / Exploring:** React.js, Node.js, Bootstrap, CSS Animations, Next.js  
+
+📚 **Interests:** Coding, UX/UI design, creating clean & maintainable code, exploring new technologies  
+
+💼 **Experience / Projects:** Worked on personal projects like a **News Website**, **Health Club Management System**, and practice projects from **Udacity**  
+
+✨ Fun Fact: I love turning coffee ☕ into clean code 💻 and exploring new tools to make my work more creative  
 
 
 ## 🌐 Socials
@@ -13,6 +35,7 @@
     <img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="40" title="Email"/>
   </a>
 </p>
+
 
 
 ## 💻 Tech Stack
