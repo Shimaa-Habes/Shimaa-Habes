@@ -51,6 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45"/>
 </p>
 
 ---
@@ -84,6 +85,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45"/>
 </p>
+
+# 🚀 Concepts & Practices
+
+- Dynamic UI Rendering
+- Reusable & Generalized Components
+- Responsive Web Design
+- Component-Based Architecture
+- Folder Structure Organization
+- API Integration
+- JSON Handling
+- Form Validation
+- Zod Validation
+- React Hooks
+- Breakpoints & Responsive Layouts
+- Git Hooks with Husky
 
 
 # 📊 GitHub Stats:
