@@ -21,8 +21,7 @@
 
 💼 **Experience / Projects:** Worked on personal projects like a **News Website**, **Health Club Management System**, and practice projects from **Udacity**  
 
-✨ Fun Fact: I love turning coffee ☕ into clean code 💻 and exploring new tools to make my work more creative  
-
+**✨ Fun Fact:** I enjoy turning ideas 💡 into real-world projects 🌍 through code 💻, and I’m always curious about AI 🤖 and modern technologies 🧠 that shape the future 🚀 of development.
 
 ## 🌐 Socials
 
