@@ -15,7 +15,7 @@
 
 🎯 **Goal:** Become a skilled Fullstack Developer & build real-world projects  
 
-🛠 **Currently Learning / Exploring:** React.js, Node.js, Bootstrap, CSS Animations, Next.js  
+🛠 Currently Learning / Exploring: Next.js, Express.js, Artificial Intelligence (AI) & Machine Learning (advanced focus)  
 
 📚 **Interests:** Coding, UX/UI design, creating clean & maintainable code, exploring new technologies  
 
